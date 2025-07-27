@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/HaR-S-H/leetcode-dsa/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/HaR-S-H/leetcode-dsa/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/HaR-S-H/leetcode-dsa/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Trie
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/HaR-S-H/leetcode-dsa/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/HaR-S-H/leetcode-dsa/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/HaR-S-H/leetcode-dsa/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Shortest Path
@@ -38,5 +40,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/HaR-S-H/leetcode-dsa/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/HaR-S-H/leetcode-dsa/tree/master/1442-number-of-operations-to-make-network-connected) |
+## Hash Table
+|  |
+| ------- |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/HaR-S-H/leetcode-dsa/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 <!---LeetCode Topics End-->
