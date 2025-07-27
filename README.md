@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/HaR-S-H/leetcode-dsa/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/HaR-S-H/leetcode-dsa/tree/master/2316-count-hills-and-valleys-in-an-array) |
 ## String
 |  |
 | ------- |
