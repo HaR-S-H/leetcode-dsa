@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/HaR-S-H/leetcode-dsa/tree/master/0031-next-permutation) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/HaR-S-H/leetcode-dsa/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/HaR-S-H/leetcode-dsa/tree/master/2316-count-hills-and-valleys-in-an-array) |
 ## String
@@ -47,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/HaR-S-H/leetcode-dsa/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/HaR-S-H/leetcode-dsa/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
