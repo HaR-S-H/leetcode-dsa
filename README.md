@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/HaR-S-H/leetcode-dsa/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/HaR-S-H/leetcode-dsa/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/HaR-S-H/leetcode-dsa/tree/master/0031-next-permutation) |
+| [0056-merge-intervals](https://github.com/HaR-S-H/leetcode-dsa/tree/master/0056-merge-intervals) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/HaR-S-H/leetcode-dsa/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/HaR-S-H/leetcode-dsa/tree/master/2316-count-hills-and-valleys-in-an-array) |
 ## String
@@ -61,4 +62,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/HaR-S-H/leetcode-dsa/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/HaR-S-H/leetcode-dsa/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/HaR-S-H/leetcode-dsa/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
