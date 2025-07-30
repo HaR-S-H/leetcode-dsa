@@ -1,36 +1,28 @@
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
-        Arrays.sort(nums); // sort array first
-        List<List<Integer>> ans = new ArrayList<>();
-
-        for (int i = 0; i < nums.length - 2; i++) {
-            // Skip duplicates
-            if (i > 0 && nums[i] == nums[i - 1]) continue;
-
-            int left = i + 1;
-            int right = nums.length - 1;
-
-            while (left < right) {
-                int sum = nums[i] + nums[left] + nums[right];
-
-                if (sum == 0) {
-                    ans.add(Arrays.asList(nums[i], nums[left], nums[right]));
-
-                    // Skip duplicates for left
-                    while (left < right && nums[left] == nums[left + 1]) left++;
-                    // Skip duplicates for right
-                    while (left < right && nums[right] == nums[right - 1]) right--;
-
-                    left++;
-                    right--;
-                } else if (sum < 0) {
-                    left++; // need bigger sum
-                } else {
-                    right--; // need smaller sum
-                }
+        List<List<Integer>>ans=new ArrayList<>();
+        int n=nums.length;
+        Arrays.sort(nums);
+        for(int i=0;i<n;i++){
+            if(i>0 && nums[i]==nums[i-1]) continue;
+            int target=-nums[i];
+            int j=i+1;
+            int k=n-1;
+            twoSum(nums,ans,target,j,k);
+        }
+        return ans;
+    }
+    public static void twoSum(int nums[],List<List<Integer>>ans,int target,int j,int k){
+        while(j<k){
+            if(nums[j]+nums[k]<target) j++;
+            else if(nums[j]+nums[k]>target) k--;
+            else{
+                while(j<k && nums[j]==nums[j+1]) j++;
+                while(j<k && nums[k]==nums[k-1]) k--;
+                ans.add(Arrays.asList(-target,nums[j],nums[k]));
+                j++;
+                k--;
             }
         }
-
-        return ans;
     }
 }
