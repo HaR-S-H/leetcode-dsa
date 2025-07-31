@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/HaR-S-H/leetcode-dsa/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/HaR-S-H/leetcode-dsa/tree/master/0031-next-permutation) |
 | [0056-merge-intervals](https://github.com/HaR-S-H/leetcode-dsa/tree/master/0056-merge-intervals) |
+| [0496-next-greater-element-i](https://github.com/HaR-S-H/leetcode-dsa/tree/master/0496-next-greater-element-i) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/HaR-S-H/leetcode-dsa/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/HaR-S-H/leetcode-dsa/tree/master/2316-count-hills-and-valleys-in-an-array) |
 ## String
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/HaR-S-H/leetcode-dsa/tree/master/0496-next-greater-element-i) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/HaR-S-H/leetcode-dsa/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 ## Two Pointers
 |  |
@@ -63,4 +65,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/HaR-S-H/leetcode-dsa/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/HaR-S-H/leetcode-dsa/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/HaR-S-H/leetcode-dsa/tree/master/0056-merge-intervals) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/HaR-S-H/leetcode-dsa/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/HaR-S-H/leetcode-dsa/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
